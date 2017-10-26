@@ -36,5 +36,5 @@ public class FörstaLektion2 extends JFrame{
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		System.out.println("hej"+namn);
 	}
-	
+	//hejsan svejsan
 }
